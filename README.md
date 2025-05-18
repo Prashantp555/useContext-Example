@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# UseContext Example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project tells about the basic working of UseContext.
 
 ## Available Scripts
 
